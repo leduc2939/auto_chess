@@ -1,0 +1,82 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:/autochess_data/1.jpg", 
+ "objects": [ 
+  {"class_id":202, "name":"Visage", "relative_coordinates":{"center_x":0.880752, "center_y":0.553212, "width":0.141218, "height":0.395356}, "confidence":0.952697}, 
+  {"class_id":42, "name":"Doom", "relative_coordinates":{"center_x":0.151429, "center_y":0.597423, "width":0.164366, "height":0.355849}, "confidence":0.942226}, 
+  {"class_id":82, "name":"LC", "relative_coordinates":{"center_x":0.363126, "center_y":0.494027, "width":0.080822, "height":0.595522}, "confidence":0.979348}, 
+  {"class_id":78, "name":"KOTL", "relative_coordinates":{"center_x":0.466368, "center_y":0.525709, "width":0.080554, "height":0.580073}, "confidence":0.920640}, 
+  {"class_id":82, "name":"LC", "relative_coordinates":{"center_x":0.574937, "center_y":0.513907, "width":0.084033, "height":0.612654}, "confidence":0.986849}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:/autochess_data/2.jpg", 
+ "objects": [ 
+  {"class_id":144, "name":"QOP2", "relative_coordinates":{"center_x":0.565026, "center_y":0.589896, "width":0.193890, "height":0.488319}, "confidence":0.990070}, 
+  {"class_id":41, "name":"Disruptor2", "relative_coordinates":{"center_x":0.776276, "center_y":0.630921, "width":0.125915, "height":0.734287}, "confidence":0.954725}, 
+  {"class_id":72, "name":"Invoker2", "relative_coordinates":{"center_x":0.354196, "center_y":0.544595, "width":0.096765, "height":0.518225}, "confidence":0.981673}, 
+  {"class_id":10, "name":"Axe3", "relative_coordinates":{"center_x":0.182566, "center_y":0.554177, "width":0.192979, "height":0.610604}, "confidence":0.967025}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:/autochess_data/3.jpg", 
+ "objects": [ 
+  {"class_id":142, "name":"Pudge3", "relative_coordinates":{"center_x":0.768310, "center_y":0.490074, "width":0.229729, "height":0.723910}, "confidence":0.979402}, 
+  {"class_id":80, "name":"Kunkka", "relative_coordinates":{"center_x":0.161213, "center_y":0.505513, "width":0.102454, "height":0.295175}, "confidence":0.976067}, 
+  {"class_id":50, "name":"EarthShaker2", "relative_coordinates":{"center_x":0.550542, "center_y":0.562290, "width":0.175978, "height":0.426625}, "confidence":0.985313}, 
+  {"class_id":30, "name":"Chen2", "relative_coordinates":{"center_x":0.321566, "center_y":0.540740, "width":0.132233, "height":0.668365}, "confidence":0.974215}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:/autochess_data/4.jpg", 
+ "objects": [ 
+  {"class_id":101, "name":"Mars2", "relative_coordinates":{"center_x":0.653903, "center_y":0.513194, "width":0.103511, "height":0.633920}, "confidence":0.490297}, 
+  {"class_id":79, "name":"KOTL2", "relative_coordinates":{"center_x":0.145596, "center_y":0.491688, "width":0.102382, "height":0.657228}, "confidence":0.939593}, 
+  {"class_id":79, "name":"KOTL2", "relative_coordinates":{"center_x":0.252843, "center_y":0.488741, "width":0.089844, "height":0.651519}, "confidence":0.953608}, 
+  {"class_id":100, "name":"Mars", "relative_coordinates":{"center_x":0.368512, "center_y":0.559169, "width":0.087229, "height":0.415746}, "confidence":0.427774}, 
+  {"class_id":42, "name":"Doom", "relative_coordinates":{"center_x":0.773228, "center_y":0.626746, "width":0.093413, "height":0.436713}, "confidence":0.637264}, 
+  {"class_id":43, "name":"Doom2", "relative_coordinates":{"center_x":0.883668, "center_y":0.658949, "width":0.153082, "height":0.500950}, "confidence":0.664540}, 
+  {"class_id":42, "name":"Doom", "relative_coordinates":{"center_x":0.478674, "center_y":0.591722, "width":0.141779, "height":0.333254}, "confidence":0.790940}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:/autochess_data/5.jpg", 
+ "objects": [ 
+  {"class_id":142, "name":"Pudge3", "relative_coordinates":{"center_x":0.863119, "center_y":0.482969, "width":0.230374, "height":0.622247}, "confidence":0.984941}, 
+  {"class_id":50, "name":"EarthShaker2", "relative_coordinates":{"center_x":0.665654, "center_y":0.562334, "width":0.170980, "height":0.420391}, "confidence":0.989483}, 
+  {"class_id":80, "name":"Kunkka", "relative_coordinates":{"center_x":0.266551, "center_y":0.514100, "width":0.106485, "height":0.269936}, "confidence":0.991695}, 
+  {"class_id":30, "name":"Chen2", "relative_coordinates":{"center_x":0.435560, "center_y":0.536136, "width":0.108126, "height":0.740916}, "confidence":0.975797}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:/autochess_data/6.jpg", 
+ "objects": [ 
+  {"class_id":142, "name":"Pudge3", "relative_coordinates":{"center_x":0.223416, "center_y":0.489078, "width":0.245380, "height":0.627243}, "confidence":0.981993}, 
+  {"class_id":50, "name":"EarthShaker2", "relative_coordinates":{"center_x":0.893119, "center_y":0.561588, "width":0.198015, "height":0.514709}, "confidence":0.987446}, 
+  {"class_id":80, "name":"Kunkka", "relative_coordinates":{"center_x":0.472143, "center_y":0.511971, "width":0.105027, "height":0.266994}, "confidence":0.993115}, 
+  {"class_id":30, "name":"Chen2", "relative_coordinates":{"center_x":0.657480, "center_y":0.520237, "width":0.079582, "height":0.620004}, "confidence":0.935949}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:/autochess_data/7.jpg", 
+ "objects": [ 
+  {"class_id":102, "name":"Mars3", "relative_coordinates":{"center_x":0.377348, "center_y":0.375906, "width":0.134664, "height":0.720823}, "confidence":0.986793}, 
+  {"class_id":57, "name":"Enchantress3", "relative_coordinates":{"center_x":0.887243, "center_y":0.536478, "width":0.146900, "height":0.646957}, "confidence":0.995518}, 
+  {"class_id":67, "name":"IO", "relative_coordinates":{"center_x":0.133328, "center_y":0.489519, "width":0.097939, "height":0.290680}, "confidence":0.880629}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:/autochess_data/8.jpg", 
+ "objects": [ 
+
+ ] 
+}
+]
