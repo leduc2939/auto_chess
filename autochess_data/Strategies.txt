@@ -75,7 +75,7 @@
 - Hero's countered by> TODO
 # (cat) Chaos:
 - Hero's strengths
-- Hero's weaknesses
+- Hero's weaknesses  asdasd
 - Hero counters
 - Hero's countered by> TODO
 # (cat) Chen:
